@@ -1,0 +1,1 @@
+# -DDL-Statements-Insert-Statement-and-Select-clause-Part-3
